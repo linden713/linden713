@@ -30,12 +30,12 @@ Exploring the integration of multiple sensors to enhance robot perception and de
 ## 📫 How to reach me
 
 - **Website**: [linden713.github.io](https://linden713.github.io/)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [lchengh@umich.com](lchengh@umich.com)
 
 ## 🎉 Fun Facts
 
 - I love participating in robotics competitions and have been a student judge for intelligent service robotics competitions.
-- In my free time, I enjoy exploring new technologies and working on personal robotics projects.
+- In my free time, I enjoy exploring new technologies, working on personal robotics projects, and diving into the world of anime. 🎨✨
 
-Feel free to check out my repositories and get in touch if you'd like to collaborate on exciting robotics projects!
+Feel free to check out my repositories and get in touch if you'd like to collaborate on exciting robotics projects or just chat about anime!
 
