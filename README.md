@@ -5,9 +5,9 @@ I'm a passionate robotics enthusiast and currently pursuing my Master's degree i
 ## 🚀 Skills
 
 - **Programming Languages**: C++, Python, MATLAB
-- **Robotics Frameworks**: ROS 1
+- **Robotics Frameworks**: ROS 1, ROS 2
 - **Design Tools**: AutoCAD, SolidWorks, Fusion360
-- **Other Tools**: Multisim
+- **Other Tools**: Pytorch, Multisim
 
 ## 🏆 Achievements
 
@@ -18,14 +18,14 @@ I'm a passionate robotics enthusiast and currently pursuing my Master's degree i
 
 ## 🌟 Projects
 
-### 🤖 [Integrated Home Service Robot](https://github.com/linden713/home-service-robot)
+### 🤖 [Integrated Home Service Robot](https://linden713.github.io/)
 A project where I developed a comprehensive home service robot that can assist with various household tasks.
 
-### 🐍 [Snake-like Soft Robot](https://github.com/linden713/snake-robot)
-An innovative project focused on designing a snake-like soft robot for navigating complex environments.
+### 🐍 [Snake-like Soft Robot](https://linden713.github.io/)
+TODO.
 
-### 🔄 [Multimodal Sensor Fusion](https://github.com/linden713/multimodal-sensor-fusion)
-Exploring the integration of multiple sensors to enhance robot perception and decision-making capabilities.
+### 🌬️ [Bladeless Fan and Its Simulation](https://linden713.github.io/)
+Exploring the design and simulation of bladeless fans, which leverage the Bernoulli principle to create smooth and efficient airflow. The project utilizes SolidWorks plugins for detailed simulation to refine the fan’s design.
 
 ## 📫 How to reach me
 
