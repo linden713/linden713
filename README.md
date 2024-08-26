@@ -22,7 +22,7 @@ I'm a passionate robotics enthusiast and currently pursuing my Master's degree i
 A project where I developed a comprehensive home service robot that can assist with various household tasks.
 
 ### 🐍 [Snake-like Soft Robot](https://linden713.github.io/)
-TODO.
+Snake-like soft robot in SOFA simulation. 
 
 ### 🌬️ [Bladeless Fan and Its Simulation](https://linden713.github.io/)
 Exploring the design and simulation of bladeless fans, which leverage the Bernoulli principle to create smooth and efficient airflow. The project utilizes SolidWorks plugins for detailed simulation to refine the fan’s design.
