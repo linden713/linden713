@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Chenghao Lin
+# Hi there! 👋 I'm Chenghao Lin
 
 I'm a passionate robotics enthusiast and currently pursuing my Master's degree in Robotics at the University of Michigan. With a solid background in mechanical design, manufacturing, and automation, I have a keen interest in Robot Perception & Manipulation and mobile manipulation. My journey has taken me from Beijing to Detroit, and now to Ann Arbor, where I'm diving deep into the world of robotics.
 
