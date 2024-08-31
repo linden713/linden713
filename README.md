@@ -16,16 +16,6 @@ I'm a passionate robotics enthusiast and currently pursuing my Master's degree i
 - **Second Prize** at China Robot Skills Competition (12/2021)
 - **First Prize** at Intelligent Service Robotics Competition of BUCT (07/2021)
 
-## 🌟 Projects
-
-### 🤖 [Integrated Home Service Robot](https://linden713.github.io/)
-A project where I developed a comprehensive home service robot that can assist with various household tasks.
-
-### 🐍 [Snake-like Soft Robot](https://linden713.github.io/)
-Snake-like soft robot in SOFA simulation. 
-
-### 🌬️ [Bladeless Fan and Its Simulation](https://linden713.github.io/)
-Exploring the design and simulation of bladeless fans, which leverage the Bernoulli principle to create smooth and efficient airflow. The project utilizes SolidWorks plugins for detailed simulation to refine the fan’s design.
 
 ## 📫 How to reach me
 
