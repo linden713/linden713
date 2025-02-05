@@ -13,9 +13,6 @@ I'm a passionate robotics enthusiast and currently pursuing my Master's degree i
 
 - **First Prize** at RoboCup@Home China Open (11/2022)
 - **Third Prize** at ICRA RoboMaster University Sim2Real Challenge (05/2022)
-- **Second Prize** at China Robot Skills Competition (12/2021)
-- **First Prize** at Intelligent Service Robotics Competition of BUCT (07/2021)
-
 
 ## 📫 How to reach me
 
